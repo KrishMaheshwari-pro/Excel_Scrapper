@@ -5,7 +5,7 @@ from zipfile import ZipFile
 from collections import Counter, defaultdict
 
 #folders to exclude or skip during extraction due to some error in formating in the excel
-EXCLUDE_FOLDERS = {"geojit", "agreya", "invesq", "moneybee", "moneylife", "spark"}
+EXCLUDE_FOLDERS = {"abc", "xyz", "pqr"}
 EXCLUDE_FOLDERS_NORM = {f.lower() for f in EXCLUDE_FOLDERS}
 SKIPPED_FOLDERS_ACTUALLY = set()
 YEAR = 2025    # change year
