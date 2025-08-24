@@ -2,6 +2,7 @@
 
 This project automates the extraction and normalization of NAV (Net Asset Value) data from bulk AMC Excel files on GOOGLE COLAB.  
 It is designed to standardize data into a single CSV file for website uploads and generate a report of unmatched schemes for manual corrections.
+Refer to the README and USER GUIDE given for detailed information.
 
 
 
